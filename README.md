@@ -1,6 +1,7 @@
 # img-exif-exporter
 exports raw exif data as csv file. very basic concept. works reasonably fast, even with batches of 1000 images.
-This is a quick thing i coded up, so its neither tested properly noe has a nice interface. it's console only. 
+This is a quick thing i coded up, so its neither tested properly nor has a nice interface. it's console only.
+
 use at own discretion.
 
 # how to use
